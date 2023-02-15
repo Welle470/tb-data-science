@@ -10,9 +10,11 @@
 
 [4. Этапы работы над проектом](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Результат)
+[5. Ссылки на диаграммы](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Ссылки-на-диаграммы)
 
-[6. Выводы](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Выводы)
+[6. Результат](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Результат)
+
+[7. Выводы](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Выводы)
 
 ### Описание проекта
 
@@ -75,6 +77,10 @@
 * Сколько выбросов было найдено с помощью метода z-отклонений
 
 :arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
+
+### Ссылки на диаграммы
+1. Построить распределение признака "Возраст". Описать распределение, отвечая на следующие вопросы: чему равна мода распределения, каковы предельные значения признака, в каком примерном интервале находится возраст большинства соискателей? Есть ли аномалии для признака возраста, какие значения причислить к их числу?(https://drive.google.com/file/d/1ANqAfwiLLJ2zdGYAWn9kfPoxIcbVVTUW/view?usp=share_link)
+2. 
 
 ### Результат
 * Был произведен базовый анализ данный
