@@ -1,22 +1,23 @@
 # Проект 1. Анализ резюме из HeadHunter  
 
-[1. Описание проекта](https://github.com/Welle470/tb_data_science/tree/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Welle470/tb_data_science/tree/main/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/Welle470/tb_data_science/tree/main/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Welle470/tb_data_science/tree/main/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Welle470/tb_data_science/tree/main/README.md#Результат)
+[5. Результат](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Результат)
 
-[6. Выводы](https://github.com/Welle470/tb_data_science/tree/main/README.md#Выводы)
+[6. Выводы](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Выводы)
 
 ### Описание проекта
 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/tb_data_science/blob/main/README.md#Оглавление)
+
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -29,11 +30,13 @@
 - очистка данных
 
 ### Краткая информация о данных
-База резюме, выгруженная с сайта поиска вакансий hh.ru
-Выгрузку курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019
-Построение графиков для лучшего понимания информации
+База резюме, выгруженная с сайта поиска вакансий hh.ru(https://drive.google.com/file/d/1B6PP-xFU7Drn7LxRCMrVgUBvo93nHLaY/view?usp=sharing)
+Выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019(https://drive.google.com/file/d/17gRvNujopdse8iojdH8QocP1qY-wlVzz/view?usp=sharing)
+Построение графиков для лучшего понимания информации (папка plotly(html))
+Сохраненные графики (папка plot(png))
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/tb_data_science/blob/main/README.md#Оглавление)
+
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1. Исследование структуры данных:
@@ -62,14 +65,24 @@
 * Построить диаграмму рассеяния, показывающую зависимость опыта работы («Опыт работы (месяц)») от возраста («Возраст»)
 По полученной сводной таблице постройте тепловую карту.
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/tb_data_science/blob/main/README.md#Оглавление)
+4. Очистка данных
+* Найти полные дубликаты в таблице с резюме и удалить их
+* Вывести информацию о числе пропусков в столбцах
+* Результирующее среднее значение в столбце «Опыт работы (месяц)» после заполнения пропусков
+* Сколько выбросов было найдено
+* Сколько выбросов было найдено с помощью метода z-отклонений
+
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Результаты
-....
+* Был произведен базовый анализ данный
+* Данные были преобразованы для дальнейших решений задач
+* Был произведен разведывательный анализ и построены графики
+* Данные были очищены от пропусков и выбросов
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/tb_data_science/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Выводы
-...
+* Данные подготовлены, преобразованы и очищены, показательные графики построены для лучшего представления зависимостей признаков и их распределения.
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/tb_data_science/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
