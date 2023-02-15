@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+project1/data/ExchangeRates.csv
+project1/data/hh_database.csv
 
 # C extensions
 *.so
