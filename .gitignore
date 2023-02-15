@@ -8,6 +8,9 @@ project1/data/hh_database.csv
 # C extensions
 *.so
 
+.DS_Store
+
+
 # Distribution / packaging
 .Python
 build/
