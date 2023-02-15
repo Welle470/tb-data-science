@@ -32,10 +32,10 @@
 - очистка данных
 
 ### Краткая информация о данных
-База резюме, выгруженная с сайта поиска вакансий hh.ru(https://drive.google.com/file/d/1B6PP-xFU7Drn7LxRCMrVgUBvo93nHLaY/view?usp=sharing)
-Выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019(https://drive.google.com/file/d/17gRvNujopdse8iojdH8QocP1qY-wlVzz/view?usp=sharing)
-Построение графиков для лучшего понимания информации (папка plotly(html))
-Сохраненные графики (папка plot(png))
+- База резюме, выгруженная с сайта поиска вакансий hh.ru(https://drive.google.com/file/d/1B6PP-xFU7Drn7LxRCMrVgUBvo93nHLaY/view?usp=sharing)
+- Выгрузка курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019(https://drive.google.com/file/d/17gRvNujopdse8iojdH8QocP1qY-wlVzz/view?usp=sharing)
+- Построение графиков для лучшего понимания информации (папка plotly(html))
+- Сохраненные графики (папка plot(png))
 
 
 :arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
