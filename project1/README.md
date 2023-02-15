@@ -1,8 +1,10 @@
 # Проект 1. Анализ резюме из HeadHunter  
 
+## Оглавление
+
 [1. Описание проекта](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Краткая-информация-о-данных)
 
@@ -17,7 +19,7 @@
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Какой кейс решаем
 
@@ -36,7 +38,7 @@
 Сохраненные графики (папка plot(png))
 
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1. Исследование структуры данных:
@@ -72,7 +74,7 @@
 * Сколько выбросов было найдено
 * Сколько выбросов было найдено с помощью метода z-отклонений
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Результат
 * Был произведен базовый анализ данный
@@ -80,9 +82,9 @@
 * Был произведен разведывательный анализ и построены графики
 * Данные были очищены от пропусков и выбросов
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
 
 ### Выводы
 * Данные подготовлены, преобразованы и очищены, показательные графики построены для лучшего представления зависимостей признаков и их распределения.
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
