@@ -2,7 +2,7 @@
 
 [1. Описание проекта](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Какой-кейс-решаем?)
 
 [3. Краткая информация о данных](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Краткая-информация-о-данных)
 
@@ -17,9 +17,9 @@
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
-### Какой кейс решаем?
+### Какой кейс решаем
 
 Данные необходимо преобразовать, исследовать и очистить, затем построить модель.
 
@@ -36,7 +36,7 @@
 Сохраненные графики (папка plot(png))
 
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
 ### Этапы работы над проектом
 1. Исследование структуры данных:
@@ -72,17 +72,17 @@
 * Сколько выбросов было найдено
 * Сколько выбросов было найдено с помощью метода z-отклонений
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
-### Результаты
+### Результат
 * Был произведен базовый анализ данный
 * Данные были преобразованы для дальнейших решений задач
 * Был произведен разведывательный анализ и построены графики
 * Данные были очищены от пропусков и выбросов
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
 
 ### Выводы
 * Данные подготовлены, преобразованы и очищены, показательные графики построены для лучшего представления зависимостей признаков и их распределения.
 
-:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Welle470/df-data-science/blob/master/project1/README.md#Описание-проекта)
