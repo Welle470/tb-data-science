@@ -10,7 +10,7 @@
 
 [4. Этапы работы над проектом](https://github.com/Welle470/df-data-science/blob/master/project6/README.md#Этапы-работы-над-проектом)
 
-[5. Графики](https://github.com/Welle470/df-data-science/blob/master/project6/README.md#Графики)
+[5. Визуализация](https://github.com/Welle470/df-data-science/blob/master/project6/README.md#Визуализация)
 
 [6. Результат](https://github.com/Welle470/df-data-science/blob/master/project6/README.md#Результат)
 
