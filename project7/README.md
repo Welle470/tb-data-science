@@ -14,7 +14,7 @@
 
 [6. Результат](https://github.com/Welle470/df-data-science/blob/master/project7/README.md#Результат)
 
-[6. Выводы](https://github.com/Welle470/df-data-science/blob/master/project7/README.md#Выводы)
+[7. Выводы](https://github.com/Welle470/df-data-science/blob/master/project7/README.md#Выводы)
 
 ### Описание проекта
 
